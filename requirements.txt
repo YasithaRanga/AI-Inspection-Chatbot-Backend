@@ -1,0 +1,10 @@
+python-dotenv
+Flask
+psycopg2-binary
+sentence-transformers
+PyPDF2
+python-docx
+transformers 
+torch 
+flask-cors
+redis
